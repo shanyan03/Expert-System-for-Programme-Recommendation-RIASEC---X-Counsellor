@@ -22,11 +22,12 @@ Below is a quick look at how X-Counsellor runs in the notebook: two example ques
 
 <!-- Sample screenshots -->
 <p align="center">
-  <img src="figures/sample1.jpg" alt="Question sample" width="100%">
   <br><em>Question sample</em>
+  <img src="figures/sample1.jpg" alt="Question sample" width="100%">
 </p>
 
 <p align="center">
+  <br><em>Results sample</em>
   <img src="figures/sample2.jpg" alt="Results sample 1" width="100%">
 </p>
 
