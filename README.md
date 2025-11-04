@@ -1,6 +1,6 @@
 # Expert System for Programme Recommendation (RIASEC) — X-Counsellor
 
-**One-liner:** Rule-based expert system that guides students to suitable degree programmes using the **Holland RIASEC** model — from questionnaire to inference and clear recommendations.
+**One-liner:** Rule-based expert system that guides students to suitable degree programmes using the **Holland RIASEC** model, from questionnaire to inference and clear recommendations.
 
 ## What’s here
 - `Expert System for Programme Recommendation_(RIASEC).ipynb` — end-to-end notebook (questions, scoring, tie-breaks, rules, recommendations)
