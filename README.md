@@ -17,5 +17,22 @@ View directly on GitHub:
 - **Knowledge base** mapping dominant RIASEC codes (e.g., RIA, ISE) to degree options with brief rationales
 - Clear, readable outputs: final 3-letter code + programme list students can act on
 
+## Sample workflow
+Below is a quick look at how X-Counsellor runs in the notebook: two example questions and a full sample output.
+
+<!-- Sample screenshots -->
+<p align="center">
+  <img src="figures/sample1.jpg" alt="Question sample" width="100%">
+  <br><em>Question sample</em>
+</p>
+
+<p align="center">
+  <img src="figures/sample2.jpg" alt="Results sample 1" width="100%">
+</p>
+
+<p align="center">
+  <img src="figures/sample3.jpg" alt="Results sample 2" width="100%">
+</p>
+
 ## Author
 Lee Shan Yan
