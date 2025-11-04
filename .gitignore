@@ -1,0 +1,9 @@
+# basics
+.DS_Store
+Thumbs.db
+
+# python/jupyter
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+.env
